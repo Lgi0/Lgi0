@@ -30,7 +30,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lgi0" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lgi0" height="150" />
-  <img src="https://streak-stats.demolab.com?user=Lgi0" height="300" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lgi0&radius=16&theme=material-palenight&area=true" height="300" />
 </div>
 
 ---
@@ -48,7 +48,7 @@
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Lgi0)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=Lgi0&theme=dracula&locale=pt_BR" alt="GitHub Streak" /></a>
 
 ---
 
