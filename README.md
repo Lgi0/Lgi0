@@ -29,7 +29,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lgi0" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lgi0" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lgi0&locale=pt-br&layout=compact&card_width=320&langs_count=5&theme=material-palenight" height="150" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lgi0&radius=16&theme=material-palenight&area=true" height="300" />
 </div>
 
