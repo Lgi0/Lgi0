@@ -1,43 +1,67 @@
-<h2 align="left">👋 Meu nome é Gio e o seu?</h2>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" width="25" height="25" /> Olá! Seja bem-vindo(a) ao meu perfil
 
-###
+#
 
-<img align="right" height="150" src="https://c.tenor.com/6zI_R6V904MAAAAC/tenor.gif"  />
+### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=AD09F7&width=435&lines=Eu+sou+Gio+-+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D" alt="Typing SVG" /></a>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" width="25" height="25" />
 
-###
+🎓 **Graduando (6º termo) em Análise e Desenvolvimento de Sistemas.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="30" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
+🚀 **Desde criança apaixonado por tecnologia busco sempre estar em aprendizado.**
+
+---
+
+### 🛠️ **Sobre mim**
+
+- **Conhecimentos em**: desenvolvimento backend, bancos de dados e interface de usuário.
+- **Planejamento**: sempre contando com documentação e escolha da melhor tecnologia.
+- **Inglês** como ferramenta de pesquisa e estudo.
+
+
+**Idiomas:**  
+- 🇬🇧 Inglês (avançado) 
+
+---
+
+### 🔎 **Status**
+
+- 📚 Sempre aprendendo e buscando novas oportunidades de crescimento profissional na área de tecnologia.
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lgi0&show_icons=true&theme=material-palenight&locale=pt-br" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lgi0&locale=pt-br&layout=compact&card_width=320&langs_count=5&theme=material-palenight" height="150" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lgi0&radius=16&theme=material-palenight&area=true" height="300" />
 </div>
 
-###
+---
+
+### 💻 **Tecnologias**
+
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=Lgi0&theme=dracula&locale=pt_BR" alt="GitHub Streak" /></a>
+
+---
+
+### 🌐 **Conecte-se comigo**
 
 <div align="left">
-  <a href="https://www.instagram.com/lupo.gi0/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="mailto:gcl.082003@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="www.linkedin.com/in/giolupo" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/giolupo" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
 
-###
+---
+
+![snake svg](https://github.com/Lgi0/Lgi0/blob/output/github-contribution-grid-snake.svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Lgi0&color=blue)
