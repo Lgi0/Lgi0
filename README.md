@@ -28,8 +28,8 @@
 - 📚 Sempre aprendendo e buscando novas oportunidades de crescimento profissional na área de tecnologia.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lgi0 height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lgi0 height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lgi0" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lgi0" height="150" />
   <img src="https://streak-stats.demolab.com?user=Lgi0" height="300" />
 </div>
 
