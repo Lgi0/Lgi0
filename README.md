@@ -28,9 +28,10 @@
 - 📚 Sempre aprendendo e buscando novas oportunidades de crescimento profissional na área de tecnologia.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lgi0&show_icons=true&theme=material-palenight&locale=pt-br" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lgi0&locale=pt-br&layout=compact&card_width=320&langs_count=5&theme=material-palenight" height="150" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lgi0&radius=16&theme=material-palenight&area=true" height="300" />
+  https://github-readme-stats.vercel.app/api?username=Lgi0
+  https://github-readme-stats.vercel.app/api/top-langs?username=Lgi0
+  https://github-readme-activity-graph.vercel.app/graph?username=Lgi0
+  https://streak-stats.demolab.com?user=Lgi0
 </div>
 
 ---
