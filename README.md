@@ -1,4 +1,4 @@
-  ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" width="25" height="25" />   Olá! Seja bem-vindo(a) ao meu perfil
+  ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" width="25" height="25"       Olá! Seja bem-vindo(a) ao meu perfil
 
   #
 
